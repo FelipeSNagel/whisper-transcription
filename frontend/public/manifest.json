@@ -1,0 +1,32 @@
+{
+  "name": "Trabalho de Inteligência Artificial - Whisper Transcription",
+  "short_name": "Whisper Transcription",
+  "theme_color": "#15351d",
+  "background_color": "#e6ebe8",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ]
+}
