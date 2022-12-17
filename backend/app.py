@@ -7,7 +7,8 @@ from tempfile import NamedTemporaryFile
 model = {
     'tiny': whisper.load_model('tiny'),
     'base': whisper.load_model('base'),
-    'medium': whisper.load_model('medium')
+    'medium': whisper.load_model('medium'),
+    'large': whisper.load_model('large'),
 }
 
 app = Flask(__name__)

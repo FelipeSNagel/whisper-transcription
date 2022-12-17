@@ -169,6 +169,11 @@ const Home = () => {
           >
             Medium
           </Button>
+          <Button size="small" variation={modelType === "large" ? "primary" : "light"}
+            onClick={() => setModelType("large")}
+          >
+            Large
+          </Button>
         </div>
       </div>
     }
